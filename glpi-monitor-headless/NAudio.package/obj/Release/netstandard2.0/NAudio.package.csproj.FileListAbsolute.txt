@@ -1,0 +1,11 @@
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\NAudio.package\bin\Release\netstandard2.0\NAudio.package.deps.json
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\NAudio.package\bin\Release\netstandard2.0\NAudio.package.dll
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\NAudio.package\bin\Release\netstandard2.0\NAudio.package.pdb
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\NAudio.package\obj\Release\netstandard2.0\NAudio.package.csproj.AssemblyReference.cache
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\NAudio.package\obj\Release\netstandard2.0\NAudio.package.GeneratedMSBuildEditorConfig.editorconfig
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\NAudio.package\obj\Release\netstandard2.0\NAudio.package.AssemblyInfoInputs.cache
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\NAudio.package\obj\Release\netstandard2.0\NAudio.package.AssemblyInfo.cs
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\NAudio.package\obj\Release\netstandard2.0\NAudio.package.csproj.CoreCompileInputs.cache
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\NAudio.package\obj\Release\netstandard2.0\NAudio.package.sourcelink.json
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\NAudio.package\obj\Release\netstandard2.0\NAudio.package.dll
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\NAudio.package\obj\Release\netstandard2.0\NAudio.package.pdb

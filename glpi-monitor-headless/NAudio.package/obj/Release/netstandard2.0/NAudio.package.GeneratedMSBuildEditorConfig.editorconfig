@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = NAudio.package
+build_property.ProjectDir = C:\glpi-monitor-headless-v2\glpi-monitor-headless\NAudio.package\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

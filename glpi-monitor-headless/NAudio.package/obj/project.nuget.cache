@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JB/BC7RTdpA=",
+  "success": true,
+  "projectFilePath": "C:\\glpi-monitor-headless-v2\\glpi-monitor-headless\\NAudio.package\\NAudio.package.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\J2M\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\J2M\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\lib\NAudio.package.dll
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\lib\NAudio.package.deps.json
+C:\glpi-monitor-headless-v2\glpi-monitor-headless\lib\NAudio.package.pdb

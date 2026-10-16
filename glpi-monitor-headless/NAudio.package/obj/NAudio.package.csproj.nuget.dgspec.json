@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\glpi-monitor-headless-v2\\glpi-monitor-headless\\NAudio.package\\NAudio.package.csproj": {}
+  },
+  "projects": {
+    "C:\\glpi-monitor-headless-v2\\glpi-monitor-headless\\NAudio.package\\NAudio.package.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\glpi-monitor-headless-v2\\glpi-monitor-headless\\NAudio.package\\NAudio.package.csproj",
+        "projectName": "NAudio.package",
+        "projectPath": "C:\\glpi-monitor-headless-v2\\glpi-monitor-headless\\NAudio.package\\NAudio.package.csproj",
+        "packagesPath": "C:\\Users\\J2M\\.nuget\\packages\\",
+        "outputPath": "C:\\glpi-monitor-headless-v2\\glpi-monitor-headless\\NAudio.package\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\J2M\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.423\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
